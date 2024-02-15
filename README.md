@@ -2,7 +2,7 @@
 
 
 
-[LIVE AWS EC2 and S3 Deployment with POSTGRESQL](http://ec2-13-201-225-189.ap-south-1.compute.amazonaws.com:8000/)
+[LIVE AWS EC2 and S3 Deployment with POSTGRESQL](http://ec2-13-201-225-189.ap-south-1.compute.amazonaws.com/)
 
 
 
