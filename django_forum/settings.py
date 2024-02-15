@@ -105,7 +105,7 @@ DATABASES = {
         'USER': 'mytwitterdb',
         'HOST': 'mytwitterdb.cbcwkyismkcp.ap-south-1.rds.amazonaws.com',
         'PORT': 5432,
-        'PASSWORD': 'st.xavier1997',
+        'PASSWORD': '',
     }
 }
 
@@ -205,8 +205,8 @@ else:
 
 # aws settings for s3 storage settings 
 # this one comes from IAM user where you find this on aws
-AWS_ACCESS_KEY_ID = 'AKIA5FTY6XZVRXFRQUOE'   # to get this go to aws click on home page create iam user by searching 
-AWS_SECRET_ACCESS_KEY = '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'  # this one from user
+AWS_ACCESS_KEY_ID = ''   # to get this go to aws click on home page create iam user by searching 
+AWS_SECRET_ACCESS_KEY = ''  # this one from user
 AWS_STORAGE_BUCKET_NAME = 'twitterdb-s3'   # your bucket name here 
 AWS_S3_SIGNATURE_NAME = 's3v4',   # this will be by default
 AWS_S3_REGION_NAME = 'ap-south-1'
